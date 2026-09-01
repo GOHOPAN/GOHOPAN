@@ -44,14 +44,14 @@
 
     <!-- line 2 (appears after enter on line 1) -->
     <g opacity="0">
-      <animate attributeName="opacity" from="0" to="1" begin="1.86s" dur="0.15s" fill="freeze"/>
+      <animate attributeName="opacity" from="0" to="1" begin="1.86s" fill="freeze"/>
       <text x="28" y="96" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#c0c0c0">C:\Users\GOHOPAN&gt;</text>
     </g>
     <text x="195" y="96" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#e6e6e6" clip-path="url(#clipCmd2)">echo AI ^| Frontend ^| Backend ^| Database</text>
 
     <!-- line 3 (final empty prompt, appears after enter on line 2) -->
     <g opacity="0">
-      <animate attributeName="opacity" from="0" to="1" begin="6.36s" dur="0.15s" fill="freeze"/>
+      <animate attributeName="opacity" from="0" to="1" begin="6.36s" fill="freeze"/>
       <text x="28" y="122" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#c0c0c0">C:\Users\GOHOPAN&gt;</text>
     </g>
 
