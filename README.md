@@ -1,5 +1,6 @@
-## Hi there 👋
-
+<p align="center">
+  <img src="./GOHOPAN Banner.svg" width="100%" alt="GOHOPAN banner"/>
+</p>
 <!--
 **GOHOPAN/GOHOPAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
