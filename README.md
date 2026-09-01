@@ -2,7 +2,7 @@
   <img src="./GOHOPAN Banner.svg" width="100%" alt="GOHOPAN banner"/>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=22&pause=1000&speed=330&color=58A6FF&center=true&vCenter=true&width=500&lines=Lifelong+Learner;Full-Stack+Engineer;AI+Developer" alt="typing-svg" />
+  <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=22&pause=1000&speed=110&color=58A6FF&center=true&vCenter=true&width=500&lines=Lifelong+Learner;Full-Stack+Engineer;AI+Developer" alt="typing-svg" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/github/followers/GOHOPAN?label=Followers&style=social" />
