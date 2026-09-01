@@ -67,8 +67,8 @@
         begin="0.8s" dur="0.96s" fill="freeze"/>
 
       <!-- drop to line 2, reset x -->
-      <set attributeName="x" to="195" begin="2.0s" fill="freeze"/>
-      <set attributeName="y" to="82" begin="2.0s" fill="freeze"/>
+      <set attributeName="x" to="195" begin="1.86s" fill="freeze"/>
+      <set attributeName="y" to="82" begin="1.86s" fill="freeze"/>
 
       <!-- single blink before typing line 2 -->
       <animate attributeName="opacity" values="1;0;1" keyTimes="0;0.5;1" calcMode="discrete" begin="2.1s" dur="0.8s" fill="freeze"/>
@@ -80,8 +80,8 @@
         begin="2.9s" dur="3.36s" fill="freeze"/>
 
       <!-- drop to line 3, reset x -->
-      <set attributeName="x" to="195" begin="6.5s" fill="freeze"/>
-      <set attributeName="y" to="108" begin="6.5s" fill="freeze"/>
+      <set attributeName="x" to="195" begin="6.36s" fill="freeze"/>
+      <set attributeName="y" to="108" begin="6.36s" fill="freeze"/>
 
       <!-- final calm blink, settles here, no more content changes -->
       <animate attributeName="opacity" values="1;0;1" keyTimes="0;0.5;1" calcMode="discrete" begin="6.6s" dur="1.06s" repeatCount="indefinite"/>
