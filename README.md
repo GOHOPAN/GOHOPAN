@@ -6,8 +6,10 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/github/followers/GOHOPAN?label=Followers&style=social" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=GOHOPAN&color=58A6FF&style=flat-square&label=Profile+Views" />
-  <a href="mailto:biobig112@navere.com"><img src="https://img.shields.io/badge/Email-58A6FF?style=flat-square&logo=gmail&logoColor=white" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:gohopan@naver.com"><img src="https://img.shields.io/badge/Email-biobig112@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white" /></a>
 </p>
 <!--
 **GOHOPAN/GOHOPAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
