@@ -71,9 +71,9 @@
   <a href="https://github.com/Baikseungwoo/IBM-x-RedHat-Midterm-Project">
     <img height="165em" src="https://github-stats-extended.vercel.app/api/pin/?username=Baikseungwoo&repo=IBM-x-RedHat-Midterm-Project&hide_border=true&bg_color=0D1117&title_color=4EC9B0&text_color=FFFFFF&icon_color=4EC9B0" />
   </a>
-  <!-- <a href="https://github.com/owner2/repo-name-2">
-    <img height="165em" src="https://github-stats-extended.vercel.app/api/pin/?username=owner2&repo=repo-name-2&hide_border=true&bg_color=0D1117&title_color=4EC9B0&text_color=FFFFFF&icon_color=4EC9B0" />
-  </a> -->
+  <a href="https://github.com/GOHOPAN/village-sim">
+    <img height="165em" src="https://github-stats-extended.vercel.app/api/pin/?username=GOHOPAN&repo=village-sim&hide_border=true&bg_color=0D1117&title_color=4EC9B0&text_color=FFFFFF&icon_color=4EC9B0" />
+  </a>
 </p>
 <!-- <p align="center">
   <a href="https://github.com/owner3/repo-name-3">
